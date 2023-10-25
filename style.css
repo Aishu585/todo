@@ -70,3 +70,11 @@ p{
     /* justify-items: flex-end;
     box-decoration-break: clone; */
 /* } */
+@media(max-width:576px){
+    .container{
+        width: auto;
+    }
+    .list-items{
+        width: auto;
+    }
+}
