@@ -77,4 +77,7 @@ p{
     .list-items{
         width: auto;
     }
+    button{
+        justify-content: center;
+    }
 }
