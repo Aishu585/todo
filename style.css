@@ -80,6 +80,6 @@ p{
     button{
         justify-content: center;
         box-sizing: border-box;
-        margin: 50px auto;
+        margin-left: 50px ;
     }
 }
